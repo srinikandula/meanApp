@@ -1,0 +1,17 @@
+{
+  "name": "myfirstapp",
+  "version": "1.0.0",
+  "description": "This is my first NodeJS application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node webClient.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "~1.4.2",
+    "express": "^4.5.1",
+    "method-override": "~2.0.2",
+    "mongoose": "^3.8.23"
+  }
+}
